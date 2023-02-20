@@ -1,4 +1,4 @@
-# Cloud-Computing
+# Cloud Implementation and Strategies Class Project
 This project was the creation of an AWS web app that collected data about the user and let them interact with the database.
 
 - The goal of this app is to allow users to interact with the recipe database.
